@@ -1,0 +1,25 @@
+{
+  "name": "jc-footer",
+  "version": "0.1.0",
+  "description": "allows dynamic footer to be updated in JS applications yearly with updated name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatboijosh23/jc-footer-js.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Joshua Cajou <joshua.cajou277038@gmail.com> (https://www.npmjs.com/~thatboijosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thatboijosh23/jc-footer-js/issues"
+  },
+  "homepage": "https://github.com/thatboijosh23/jc-footer-js#readme",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
